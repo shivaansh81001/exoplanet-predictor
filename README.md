@@ -1,1 +1,1 @@
-# cmput-466-mini-project
+# Exoplanets Predictor based on data such as revolution period, rotation sepeed, Parent star etc.
